@@ -1,16 +1,8 @@
 import streamlit as st
-import pandas as pd
 import matplotlib.pyplot as plt
-import numpy as np
 from wordcloud import WordCloud
 import random
-import time
-from matplotlib.offsetbox import OffsetImage
-import matplotlib.patheffects as path_effects
 import plotly.graph_objects as go
-import streamlit.components.v1 as components
-from streamlit_extras.let_it_rain import rain
-from confetti import fire_confetti
 import os
 #st.markdown('<a id="top"></a>', unsafe_allow_html=True)
 
