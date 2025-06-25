@@ -3,3 +3,4 @@ matplotlib
 wordcloud
 plotly
 Pillow
+streamlit_extras
