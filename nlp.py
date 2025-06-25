@@ -378,7 +378,7 @@ def eye_patterns_exercise():
     **🎯 Cilj:** Prepoznajte obrasce pokreta očiju
     """)
 
-    st.image("eye_patterns.jpeg", width=400)  # relative path
+    st.image("images/eye_patterns.jpeg", width=400)  # relative path
 
     st.markdown("""
     **Vežba:**
