@@ -1153,22 +1153,21 @@ def module_1_content() -> dict:
             """, None),
 
             ("📜 NLP Aksiomi", """
-            - **Mapa nije teritorija** – Naša mentalna mapa stvarnosti nije isto što i sama stvarnost.
-            - **Ljudi zasnivaju svoje ponašanje na najboljoj opciji koju imaju u tom trenutku** – Iza svakog ponašanja stoji pozitivna namera.
-            - **Ljudi već poseduju sve resurse koji su im potrebni da bi napravili željenu promenu**.
-            - **Ako nešto ne funkcioniše, probaj nešto drugo**.
-            - **Ne postoji neuspeh – postoji samo povratna informacija**.
-            - **Mi ne možemo ne komunicirati** – Čak i ćutanje je oblik komunikacije.
-            - **Značenje komunikacije je odgovor koji dobijemo** – Ne ono što smo hteli da kažemo, već kako je poruka primljena.
-            - **Rešenje je uvek unutar sistema** – Promene treba da se dešavaju iznutra ka spolja.
-            - **Ako neko može nešto da uradi, svako može da nauči kako** – Modeliranjem tuđeg ponašanja moguće je naučiti veštine.
-            - **Ako želiš nešto da razumeš – primeni to**.
-            - **Ljudski um, telo i emocije čine celinu** – Sve je povezano.
-            - **Reakcija sagovornika zavisi i od nas** – Mi učestvujemo u kreiranju interakcije.
-            - **Ukoliko nešto funkcioniše, to znači da je sistem u ravnoteži**.
-            - **Ljudima nisu potrebne velike promene – dovoljan je mali pomak**.
-            - **Ljudi koji nas okružuju su naše ogledalo** – Ono što nas nervira u drugima, često je i u nama.
-            - **Pojedinačna iskustva nisu fiksni identitet** – Ljudi nisu njihova prošlost; mogu se menjati.
+            - **Mapa nije teritorija**.
+            - **Ljudi za sebe uvek biraju najbolju opciju**. 
+            - **Iza svakog ponašanja krije se dobra namera**.
+            - **Kada nešto ne funkcioniše, probaj nešto drugo**.
+            - **Ne postoji neuspeh već samo rezultat**.
+            - **Posedujemo sve potrebne resurse**.
+            - **Ne možemo ne komunicirati**.
+            - **Um, telo i emocije čine celinu** 
+            - **Rekacija sagovornika daje značenje komunikaciji**.
+            - **Nije važno šta vam se dešava, važno je kako vi na to reagujete**. 
+            - **Ako neko može nešto da uradi, svako može to da nauči** 
+            - **Ako želiš nešto da razumeš, primeni**.
+            - **Ljudi koji nas okružuju su naša ogledala**.
+            - **Uspeh je balans ključnih životnih oblasti**.
+            - **Pojedinac sa najvećom fleksibilnošću misli i akcija upravlja situacijama**.
             """, None),
 
             ("📊 Mehrabianov model komunikacije", """
