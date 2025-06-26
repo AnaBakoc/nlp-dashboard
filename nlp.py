@@ -2015,9 +2015,9 @@ monthly_curriculum = {
 def show_month_details(month):
     if month == 9:
         st.subheader("🎓 Mesec 9 – Završni modul: Sertifikacija i slavlje")
-        st.image("svi_mi2.jpeg", caption="NLP tim – svi mi zajedno!", use_container_width =True)
-        st.image("svi_mi1.jpeg", caption="NLP tim – svi mi zajedno!", use_container_width =True)
-        st.image("svi_mi3.jpeg", caption="NLP tim – svi mi zajedno!", use_container_width =True)
+        st.image("images/svi_mi2.jpeg", caption="NLP tim – svi mi zajedno!", use_container_width =True)
+        st.image("images/svi_mi1.jpeg", caption="NLP tim – svi mi zajedno!", use_container_width =True)
+        st.image("images/svi_mi3.jpeg", caption="NLP tim – svi mi zajedno!", use_container_width =True)
         return
 
     data = monthly_curriculum.get(month, {})
